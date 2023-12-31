@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjimeno
-- 👀 I’m interested in ...
-- 🌱 I’m currently re-learning JUnit as I never had an oportunity to use it professionally in the past.
+- 👀 I’m interested in 
+- 🌱 I’m focused on non-trivial aspects of Linux, Python, AWS, DevOps, and SRE.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/robertojimeno/
 
