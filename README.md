@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rjimeno
-- 👀 I’m interested in 
+- 👀 I’m interested in Terraform, Kubernetes, Helm, Prometheus, and a few more things (like Bazel, for example).
 - 🌱 I’m focused on non-trivial aspects of Linux, Python, AWS, DevOps, and SRE.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that leverage those technologies.
 - 📫 How to reach me: https://www.linkedin.com/in/robertojimeno/
 
 <!---
